@@ -49,7 +49,7 @@ python train.py
 5. The plotted curves and the trained model parameters will be stored in the logs folder.
 
 ### **Predict**
-1.Prediction requires two files, `frcnn.py` and `predict.py`. Modify the parameter `model_path` when initializing the model in `predict.py` to refer to the trained weights file.
+1. Prediction requires two files, `frcnn.py` and `predict.py`. Modify the parameter `model_path` when initializing the model in `predict.py` to refer to the trained weights file.
 
 2. 
 ```bash
